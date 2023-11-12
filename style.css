@@ -16,6 +16,9 @@ body {
     flex-direction: column;
     align-items: center;
   }
+
+  /* all the frog-1,2, etc. need to be justified center 
+  and the figures themselves need position relative */
   
   .frog-1, .frog-3 {
     display: flex;
