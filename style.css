@@ -34,12 +34,10 @@ figure {
 
 .position-right {
   position: relative;
-  left: 20%;
 }
 
 .position-left {
   position: relative;
-  right: 20%;
 }
 
 header {
