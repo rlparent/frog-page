@@ -11,4 +11,4 @@ This project is another step on my journey to get better at styling HTML with Fl
 
 ## Acknowledgments
 
-* Thanks to Wikipedia for providing the pictures. 
+* Thanks to Wikipedia for providing the pictures and text.
